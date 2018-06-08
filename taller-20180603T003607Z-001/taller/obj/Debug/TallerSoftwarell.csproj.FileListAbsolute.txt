@@ -1,0 +1,10 @@
+C:\Users\EDGARDO\Downloads\taller-20180603T003607Z-001\taller\bin\Debug\taller.exe.config
+C:\Users\EDGARDO\Downloads\taller-20180603T003607Z-001\taller\bin\Debug\taller.exe
+C:\Users\EDGARDO\Downloads\taller-20180603T003607Z-001\taller\bin\Debug\taller.pdb
+C:\Users\EDGARDO\Downloads\taller-20180603T003607Z-001\taller\obj\Debug\TallerSoftwarell.csprojResolveAssemblyReference.cache
+C:\Users\EDGARDO\Downloads\taller-20180603T003607Z-001\taller\obj\Debug\taller.PrestacionServicios.resources
+C:\Users\EDGARDO\Downloads\taller-20180603T003607Z-001\taller\obj\Debug\taller.Properties.Resources.resources
+C:\Users\EDGARDO\Downloads\taller-20180603T003607Z-001\taller\obj\Debug\TallerSoftwarell.csproj.GenerateResource.Cache
+C:\Users\EDGARDO\Downloads\taller-20180603T003607Z-001\taller\obj\Debug\TallerSoftwarell.csproj.CoreCompileInputs.cache
+C:\Users\EDGARDO\Downloads\taller-20180603T003607Z-001\taller\obj\Debug\taller.exe
+C:\Users\EDGARDO\Downloads\taller-20180603T003607Z-001\taller\obj\Debug\taller.pdb

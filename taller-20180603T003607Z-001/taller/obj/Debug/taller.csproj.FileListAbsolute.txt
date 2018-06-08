@@ -1,0 +1,20 @@
+C:\Users\Estudiante\Desktop\software\taller\taller\bin\Debug\taller.exe.config
+C:\Users\Estudiante\Desktop\Nueva carpeta\taller\taller\bin\Debug\taller.exe.config
+C:\Users\Estudiante\Desktop\Nueva carpeta\taller\taller\obj\Debug\taller.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Desktop\Nueva carpeta\taller\taller\obj\Debug\taller.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\Nueva carpeta\taller\taller\obj\Debug\taller.csproj.GenerateResource.Cache
+C:\Users\Estudiante\Desktop\Nueva carpeta\taller\taller\obj\Debug\taller.frmRegistro.resources
+C:\Users\Estudiante\Desktop\Nueva carpeta\taller\taller\bin\Debug\taller.exe
+C:\Users\Estudiante\Desktop\Nueva carpeta\taller\taller\bin\Debug\taller.pdb
+C:\Users\Estudiante\Desktop\Nueva carpeta\taller\taller\obj\Debug\taller.exe
+C:\Users\Estudiante\Desktop\Nueva carpeta\taller\taller\obj\Debug\taller.pdb
+C:\Users\EDGARDO\Downloads\taller-20180603T003607Z-001\taller\bin\Debug\taller.exe.config
+C:\Users\EDGARDO\Downloads\taller-20180603T003607Z-001\taller\bin\Debug\taller.exe
+C:\Users\EDGARDO\Downloads\taller-20180603T003607Z-001\taller\bin\Debug\taller.pdb
+C:\Users\EDGARDO\Downloads\taller-20180603T003607Z-001\taller\obj\Debug\taller.csprojResolveAssemblyReference.cache
+C:\Users\EDGARDO\Downloads\taller-20180603T003607Z-001\taller\obj\Debug\taller.frmRegistro.resources
+C:\Users\EDGARDO\Downloads\taller-20180603T003607Z-001\taller\obj\Debug\taller.Properties.Resources.resources
+C:\Users\EDGARDO\Downloads\taller-20180603T003607Z-001\taller\obj\Debug\taller.csproj.GenerateResource.Cache
+C:\Users\EDGARDO\Downloads\taller-20180603T003607Z-001\taller\obj\Debug\taller.csproj.CoreCompileInputs.cache
+C:\Users\EDGARDO\Downloads\taller-20180603T003607Z-001\taller\obj\Debug\taller.exe
+C:\Users\EDGARDO\Downloads\taller-20180603T003607Z-001\taller\obj\Debug\taller.pdb
